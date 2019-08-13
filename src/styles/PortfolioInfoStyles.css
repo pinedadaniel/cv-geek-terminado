@@ -1,0 +1,13 @@
+.Project{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.Project__article{
+    box-shadow: 1px 5px 10px gray;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    display: inherit;
+    grid-template-columns: auto auto;
+}

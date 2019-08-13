@@ -1,0 +1,40 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+    font-size: 1em;
+}
+
+h1,h2,h4,h5,h6{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+}
+
+h1{
+    font-size: 40px;
+    line-height: 1.5em;
+    letter-spacing: -.2px;
+    color: white;  
+    margin: 0;
+}
+
+h1 strong{
+    color: #026fff;
+}
+
+h2{
+    color: #026fff;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.container{
+    margin: 0 auto;
+    justify-content: inherit;
+    align-items: inherit;
+    display: inherit;
+    width: 900px;
+}

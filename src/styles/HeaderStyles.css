@@ -1,0 +1,38 @@
+.Header{
+    background-color: #1c2228;
+}
+
+.Header__container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    align-items: inherit;
+    width: 900px;
+}
+
+.Header__menu ul{
+    display: flex;
+    list-style: none;
+}
+
+.Header__link{
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+}
+
+.Header__hero{
+    background-color: #1c2228;
+}
+
+.Header__hero-container{
+    margin: 0 auto;
+    justify-content: inherit;
+    align-items: center;;
+    display: flex;
+    width: 900px;
+}
+
+.Header__hero-image{
+    width: 50%;
+}
